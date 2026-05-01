@@ -4,7 +4,7 @@
 
 ---
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:00ff41&height=120&section=header&fontSize=0)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:9B59B6&height=120&section=header&fontSize=0)
 
 ---
 
@@ -22,15 +22,14 @@
 
 ### Trophies
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=MonoFlow1&theme=matrix&no-frame=true&row=1&column=6)](https://github.com/monoflow1)
+![Trophy](https://github-profile-trophy.vercel.app/?username=MonoFlow1&theme=dracula&no-frame=true&row=1&column=6)
 
 ---
 
 ### Activity
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MonoFlow1&theme=high-contrast&hide_border=true&bg_color=0d0d0d&color=00ff41&line=00ff41&point=ffffff)](https://github.com/monoflow1)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MonoFlow1&theme=high-contrast&hide_border=true&bg_color=0d0d0d&color=9B59B6&line=9B59B6&point=ffffff)
 
 ---
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,100:0a0a0a&height=80&section=footer)
-
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:9B59B6,100:0a0a0a&height=80&section=footer)
