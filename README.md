@@ -19,16 +19,17 @@
 
 ---
 
-### Stats
+### Trophies
 
-![Stats](https://github-readme-stats.vercel.app/api?username=ТВО_НИК&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=00ff41&icon_color=00ff41&text_color=ffffff)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ТВО_НИК&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=00ff41&text_color=ffffff)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=ТВО_НИК&theme=matrix&no-frame=true&row=1&column=6)](https://github.com/ТВО_НИК)
 
 ---
 
-![Snake](https://github.com/ТВО_НИК/ТВО_НИК/blob/output/github-contribution-grid-snake-dark.svg)
+### Activity
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ТВО_НИК&theme=high-contrast&hide_border=true&bg_color=0d0d0d&color=00ff41&line=00ff41&point=ffffff)](https://github.com/ТВО_НИК)
 
 ---
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,100:0a0a0a&height=80&section=footer)
+
