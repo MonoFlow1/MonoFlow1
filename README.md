@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm MonoFlow 🐍
 
-<!--
-**MonoFlow1/MonoFlow1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Aspiring Network Engineer | Python Learner | Automation Enthusiast**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 My GitHub Stats
+
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=monoflow1&show_icons=true&theme=graywhite&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monoflow1&layout=compact&theme=graywhite&hide_border=true)
+
+---
+
+### 🛠️ Skills & Tools
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
