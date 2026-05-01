@@ -21,7 +21,7 @@
 
 ### Trophies
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=ТВО_НИК&theme=matrix&no-frame=true&row=1&column=6)](https://github.com/ТВО_НИК)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=MonoFlow1&theme=matrix&no-frame=true&row=1&column=6)](https://github.com/ТВО_НИК)
 
 ---
 
