@@ -27,7 +27,7 @@
 
 ### Activity
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ТВО_НИК&theme=high-contrast&hide_border=true&bg_color=0d0d0d&color=00ff41&line=00ff41&point=ffffff)](https://github.com/ТВО_НИК)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MonoFlow1&theme=high-contrast&hide_border=true&bg_color=0d0d0d&color=00ff41&line=00ff41&point=ffffff)](https://github.com/ТВО_НИК)
 
 ---
 
